@@ -1,0 +1,30 @@
+{
+  "admin": [
+    {
+      "username": "admin",
+      "password": "admin123"
+    }
+  ],
+  "user": [
+    {
+      "fname": "vani",
+      "lname": "sri",
+      "mobile": "9374647821",
+      "email": "vani@gmail.com",
+      "uname": "vani",
+      "password": "1234",
+      "cpassword": "1234",
+      "id": "1"
+    }
+  ],
+  "products": [
+    {
+      "pname": "mobile",
+      "pdesc": "using",
+      "pprice": "39999",
+      "pqty": "2",
+      "paddr": "https://m.media-amazon.com/images/I/61EC3mmirsL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "1"
+    }
+  ]
+}
